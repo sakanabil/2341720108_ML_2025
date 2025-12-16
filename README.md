@@ -31,5 +31,6 @@ Selamat datang! Repository ini berisi materi pembelajaran **Machine Learning** u
 | [JS14](JS14/)         | Convolutional Neural Networks (CNN) | ✅ Selesai |
 | [KUIS](KUIS/)         | Kuis & Evaluasi                     | ✅ Selesai |
 | [KELOMPOK](KELOMPOK/) | Proyek Kelompok                     | ✅ Selesai |
+| [PBL](PBL_KELOMPOK6/) | PBL KELOMPOK 6                      | ✅ Selesai |
 
 ---
